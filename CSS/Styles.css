@@ -1,0 +1,44 @@
+body
+{
+  background-color: bisque;
+
+}
+
+footer
+{
+background-color: darksalmon;
+padding: 25px;
+
+}
+
+header h1
+{
+  text-align: center;
+  text-decoration-color: black;
+  font: bolder;
+  font-weight: bolder;
+}
+
+nav ul li a
+{
+  color: cadetblue;
+  text-decoration: none;
+  padding-right: 30px;
+  text-align: right;
+}
+
+main img
+{
+
+  width: 300px;
+  height: 150px;
+  padding-left: 500px;
+}
+
+main p
+{
+
+  color: cornflowerblue;
+  text-align: center;
+  text-size-adjust: 55px;
+}
